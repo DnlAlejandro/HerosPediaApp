@@ -1,0 +1,257 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in componente <Hero/> debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="flex gap-5"
+  >
+    <div>
+      <img
+        alt="Batman"
+        class="rounded-lg h-full max-h-[70vh] min-w-72 hover:scale-105"
+        src="/heroes/undefined.jpg"
+      />
+      <h1
+        class="mt-4 font-bold text-3xl text-slate-600"
+      >
+        Batman
+      </h1>
+      <span
+        class="text-blue-600"
+      >
+        DC Comics
+      </span>
+    </div>
+    <div
+      class="w-full"
+    >
+      <div
+        class="my-5 shadow-md p-5 rounded-md"
+      >
+        <h4
+          class="font-semibold text-2xl text-indigo-600"
+        >
+          Alter Ego & Character
+        </h4>
+        <span
+          class="text-sm text-slate-500"
+        >
+          Bruce Wayne
+        </span>
+      </div>
+      <div
+        class="shadow-md p-5 rounded-md"
+      >
+        <h4
+          class="font-semibold text-2xl text-blue-600"
+        >
+          First Appearance
+        </h4>
+        <span
+          class="text-sm text-slate-500"
+        >
+          Detective Comics #27
+        </span>
+      </div>
+      <button
+        class="bg-indigo-600 mt-4 text-white text-sm w-full h-12 rounded-md hover:bg-indigo-700"
+        data-testid="goback-btn"
+      >
+        Go back
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test in componente <Hero/> should match con el snapshot 1`] = `
+<div>
+  <div
+    class="flex gap-5"
+  >
+    <div>
+      <img
+        alt="Batman"
+        class="rounded-lg h-full max-h-[70vh] min-w-72 hover:scale-105"
+        src="/heroes/undefined.jpg"
+      />
+      <h1
+        class="mt-4 font-bold text-3xl text-slate-600"
+      >
+        Batman
+      </h1>
+      <span
+        class="text-blue-600"
+      >
+        DC Comics
+      </span>
+    </div>
+    <div
+      class="w-full"
+    >
+      <div
+        class="my-5 shadow-md p-5 rounded-md"
+      >
+        <h4
+          class="font-semibold text-2xl text-indigo-600"
+        >
+          Alter Ego & Character
+        </h4>
+        <span
+          class="text-sm text-slate-500"
+        >
+          Bruce Wayne
+        </span>
+      </div>
+      <div
+        class="shadow-md p-5 rounded-md"
+      >
+        <h4
+          class="font-semibold text-2xl text-blue-600"
+        >
+          First Appearance
+        </h4>
+        <span
+          class="text-sm text-slate-500"
+        >
+          Detective Comics #27
+        </span>
+      </div>
+      <button
+        class="bg-indigo-600 mt-4 text-white text-sm w-full h-12 rounded-md hover:bg-indigo-700"
+        data-testid="goback-btn"
+      >
+        Go back
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test in componente <Hero/> should match wit snapshot 1`] = `
+<div>
+  <div
+    class="flex gap-5"
+  >
+    <div>
+      <img
+        alt="Batman"
+        class="rounded-lg h-full max-h-[70vh] min-w-72 hover:scale-105"
+        src="/heroes/undefined.jpg"
+      />
+      <h1
+        class="mt-4 font-bold text-3xl text-slate-600"
+      >
+        Batman
+      </h1>
+      <span
+        class="text-blue-600"
+      >
+        DC Comics
+      </span>
+    </div>
+    <div
+      class="w-full"
+    >
+      <div
+        class="my-5 shadow-md p-5 rounded-md"
+      >
+        <h4
+          class="font-semibold text-2xl text-indigo-600"
+        >
+          Alter Ego & Character
+        </h4>
+        <span
+          class="text-sm text-slate-500"
+        >
+          Bruce Wayne
+        </span>
+      </div>
+      <div
+        class="shadow-md p-5 rounded-md"
+      >
+        <h4
+          class="font-semibold text-2xl text-blue-600"
+        >
+          First Appearance
+        </h4>
+        <span
+          class="text-sm text-slate-500"
+        >
+          Detective Comics #27
+        </span>
+      </div>
+      <button
+        class="bg-indigo-600 mt-4 text-white text-sm w-full h-12 rounded-md hover:bg-indigo-700"
+        data-testid="goback-btn"
+      >
+        Go back
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test in componente <Hero/> should match with snapshot 1`] = `
+<div>
+  <div
+    class="flex gap-5"
+  >
+    <div>
+      <img
+        alt="Batman"
+        class="rounded-lg h-full max-h-[70vh] min-w-72 hover:scale-105"
+        src="/heroes/undefined.jpg"
+      />
+      <h1
+        class="mt-4 font-bold text-3xl text-slate-600"
+      >
+        Batman
+      </h1>
+      <span
+        class="text-blue-600"
+      >
+        DC Comics
+      </span>
+    </div>
+    <div
+      class="w-full"
+    >
+      <div
+        class="my-5 shadow-md p-5 rounded-md"
+      >
+        <h4
+          class="font-semibold text-2xl text-indigo-600"
+        >
+          Alter Ego & Character
+        </h4>
+        <span
+          class="text-sm text-slate-500"
+        >
+          Bruce Wayne
+        </span>
+      </div>
+      <div
+        class="shadow-md p-5 rounded-md"
+      >
+        <h4
+          class="font-semibold text-2xl text-blue-600"
+        >
+          First Appearance
+        </h4>
+        <span
+          class="text-sm text-slate-500"
+        >
+          Detective Comics #27
+        </span>
+      </div>
+      <button
+        class="bg-indigo-600 mt-4 text-white text-sm w-full h-12 rounded-md hover:bg-indigo-700"
+        data-testid="goback-btn"
+      >
+        Go back
+      </button>
+    </div>
+  </div>
+</div>
+`;
