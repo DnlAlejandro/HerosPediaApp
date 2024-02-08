@@ -33,9 +33,6 @@ export const Navbar = () => {
             replace: true
         });
     }
-    const handlePrueba = () => {
-        console.log('a');
-    }
 
     const handleSubmit = (event) => {
 
@@ -120,7 +117,7 @@ export const Navbar = () => {
                 {/* Dropdown menu */}
                 <Dropdown
                     label={
-                        <Avatar alt="User settings" img="/mylogo.png" rounded>
+                        <Avatar alt="User settings" img="./mylogo.png" rounded>
                             <div className="space-y-1 font-medium">
                                 <div>{user}</div>
                             </div>
